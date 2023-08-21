@@ -23,14 +23,14 @@ Hello! I'm Hassen Gharbi , a passionate Data Science Engineer with a strong back
 <br />
 ##🏄‍♂️Skills
 
-**`Data Science Engineering:`** Transforming raw data into actionable insights is my forte. I revel in leveraging various techniques for data analysis, prediction, and decision-making.
-**`Web Scraping Aficionado:`** I have a knack for extracting hidden gems from the web. Whether it's e-commerce trends, news articles, or research data, I've got the tools to fetch it.
-**`OCR Virtuoso:`** Optical Character Recognition (OCR) is my magic wand to convert images into text. Extracting valuable information from documents, images, and scans is where I shine.
-**`Computer Vision Maestro:`** I unravel visual tales through computer vision. From object detection to image segmentation, I wield algorithms that decode the visual world.
-**`Data Whisperer:`** Taming complex datasets and turning them into understandable stories is what I do best. Through visualization and analysis, I unearth insights that shape strategies.
-**`Machine Learning Conductor:`** I orchestrate machine learning symphonies. From predicting stock trends to analyzing sentiment, I wield ML algorithms to decode patterns.
-**`Deep Learning Artisan:`** Crafting neural networks is my passion. I create models that discern objects in images, generate text, and perform tasks that seem like magic to machines.
-**`NLP Sorcerer:`** I converse with machines. Natural Language Processing (NLP) is my language of choice to extract meaning, sentiment, and intent from human text.
+**`Data Science Engineering:`** Transforming raw data into actionable insights is my forte. I revel in leveraging various techniques for data analysis, prediction, and decision-making.<br />
+**`Web Scraping Aficionado:`** I have a knack for extracting hidden gems from the web. Whether it's e-commerce trends, news articles, or research data, I've got the tools to fetch it.<br />
+**`OCR Virtuoso:`** Optical Character Recognition (OCR) is my magic wand to convert images into text. Extracting valuable information from documents, images, and scans is where I shine.<br />
+**`Computer Vision Maestro:`** I unravel visual tales through computer vision. From object detection to image segmentation, I wield algorithms that decode the visual world.<br />
+**`Data Whisperer:`** Taming complex datasets and turning them into understandable stories is what I do best. Through visualization and analysis, I unearth insights that shape strategies.<br />
+**`Machine Learning Conductor:`** I orchestrate machine learning symphonies. From predicting stock trends to analyzing sentiment, I wield ML algorithms to decode patterns.<br />
+**`Deep Learning Artisan:`** Crafting neural networks is my passion. I create models that discern objects in images, generate text, and perform tasks that seem like magic to machines.<br />
+**`NLP Sorcerer:`** I converse with machines. Natural Language Processing (NLP) is my language of choice to extract meaning, sentiment, and intent from human text.<br />
   
 
 ### 📊 Stats

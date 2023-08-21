@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+#  Gharbi Hassen
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hello! I'm Hassen Gharbi , a passionate Data Science Engineer with a strong background in web scraping, OCR, data analysis, machine learning, deep learning, and natural language processing. I'm dedicated to leveraging data-driven insights to solve real-world problems.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">

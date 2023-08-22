@@ -22,7 +22,7 @@ Hello! I'm Hassen Gharbi , a passionate Data Science Engineer with a strong back
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 </br>
-### 🏄‍♂️Skills</br>
+### 🏄‍♂️ Skills
 I am a highly skilled and versatile professional with expertise across a spectrum of cutting-edge technologies and methodologies. 
 
 **`Data Science Engineering:`** Strong foundation in Data Science Engineering, I possess the ability to transform raw data into actionable insights that drive informed decision-making.<br />

@@ -40,8 +40,7 @@ I am a highly skilled and versatile professional with expertise across a spectru
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
-<details>
+
 ## 🧰 Projects
 ### Project 1: Web Scraping Facebook groupes (Images/Comments)
 Description: Extracted data Facebook Utilized Python, Selenium, and Scrapy.

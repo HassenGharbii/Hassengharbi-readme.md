@@ -21,7 +21,7 @@ Hello! I'm Hassen Gharbi , a passionate Data Science Engineer with a strong back
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
+_________________
 ### 🏄‍♂️ Skills
 I am a highly skilled and versatile professional with expertise across a spectrum of cutting-edge technologies and methodologies. 
 
@@ -33,14 +33,6 @@ I am a highly skilled and versatile professional with expertise across a spectru
 **`Deep Learning:`** Crafting neural networks is my passion. I create models that discern objects in images, generate text, and perform tasks that seem like magic to machines.<br />
 **`NLP:`** I converse with machines. Natural Language Processing (NLP) is my language of choice to extract meaning, sentiment, and intent from human text.<br />
   
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-
 ## 🧰 Projects
 ### Project 1: Twitter Sentiment Analysis and Classification
 Description:  Python script that demonstrates the process of collecting tweets related to COVID-19 vaccines, preprocessing the data, performing sentiment analysis, and classifying sentiments using different machine learning algorithms</br>

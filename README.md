@@ -44,7 +44,7 @@ I am a highly skilled and versatile professional with expertise across a spectru
 ## 🧰 Projects
 ### Project 1: Twitter Sentiment Analysis and Classification
 Description:  Python script that demonstrates the process of collecting tweets related to COVID-19 vaccines, preprocessing the data, performing sentiment analysis, and classifying sentiments using different machine learning algorithms</br>
-Repository: https://github.com/Hassenegh123/Twitter_Covid_Data_Analysis))](https://github.com/Hassenegh123/Twitter_Covid_Data_Analysis
+Repository: https://github.com/Hassenegh123/Twitter_Covid_Data_Analysis
 ### Project 2: Web Scraping Facebook groupes (Images/Comments)
 Description: Extracted data Facebook Utilized Python, Selenium, and Scrapy.
 ### Project 3: Web Scraping Facebook groupes (Images/Comments)

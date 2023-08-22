@@ -1,8 +1,7 @@
 #  Gharbi Hassen
 
 **`Data Craftsman (Developer/Creator)`**
-
-Hello! I'm Hassen Gharbi , a passionate Data Science Engineer with a strong background in web scraping,computer Vision, data analysis, machine learning, deep learning, and natural language processing. I'm dedicated to leveraging data-driven insights to solve real-world problems.
+Hello! I'm Hassen Gharbi, a passionate Data Science Engineer with a robust background in web scraping, computer vision, data analysis, machine learning, deep learning, and natural language processing. My dedication lies in utilizing data-driven insights to solve real-world problems effectively
 
 
 ### 🧰 Languages and Tools

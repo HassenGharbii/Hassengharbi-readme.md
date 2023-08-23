@@ -25,7 +25,6 @@ I am a highly skilled and versatile professional with expertise across a spectru
 
 **`Data Science Engineering:`** Strong foundation in Data Science Engineering, I possess the ability to transform raw data into actionable insights that drive informed decision-making.<br />
 **`Web Scraping :`** I have a knack for extracting hidden gems from the web. Whether it's e-commerce trends, news articles, or research data, I've got the tools to fetch it.<br />
-**`Computer Vision :`** I unravel visual tales through computer vision. From object detection to image segmentation, I wield algorithms that decode the visual world.<br />
 **`Data Analysis:`** I possess a unique ability to tame intricate datasets and translate them into compelling narratives through the art of Data Whispering. By employing techniques of data visualization and in-depth analysis, I uncover valuable insights that play a pivotal role in shaping strategic decisions..<br />
 **`Machine Learning :`** I orchestrate machine learning symphonies. From predicting stock trends to analyzing sentiment, I wield ML algorithms to decode patterns.<br />
 **`Deep Learning:`** Crafting neural networks is my passion. I create models that discern objects in images, generate text, and perform tasks that seem like magic to machines.<br />

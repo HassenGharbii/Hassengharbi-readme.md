@@ -37,11 +37,11 @@ I am a highly skilled and versatile professional with expertise across a spectru
 ### Project 2: License Plate Detection
 <strong>Description:</strong> Extracting informations from a car license plate with Python
 <strong>Repository:</strong>https://github.com/HassenGharbii/Extract_Data_From_Tunisian_Cars_Plates
-### Project 3: Automated Betting Data Scraper using Selenium and Pandas
+### Project 3: Automated Betting Data Scraper using Selenium 
 <strong>Description:</strong>Scrape live betting data from the Stake website. It collects information about games, users, bet times, bet amounts, multipliers, and payouts, storing the data in a Pandas DataFrame.</br>
 <strong>Repository:</strong>https://github.com/HassenGharbii/Live_Stake_Bets_Wins_Scraper
-### Project 4: Web Scraping Facebook groupes (Images/Comments)
-Description: Extracted data Facebook Utilized Python, Selenium, and Scrapy.
+### Project 4:Scraping Cars.com data
+Description: This project dates from 2022 and recently added to git , it Extract data cars.com with Python, Selenium ...
 ### Project 5: Web Scraping Facebook groupes (Images/Comments)
 Description: Extracted data Facebook Utilized Python, Selenium, and Scrapy.
 

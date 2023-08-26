@@ -31,18 +31,17 @@ I am a highly skilled and versatile professional with expertise across a spectru
 **`NLP:`** I converse with machines. Natural Language Processing (NLP) is my language of choice to extract meaning, sentiment, and intent from human text.<br />
   
 ## 🧰 Projects
-### Project 1: Twitter Sentiment Analysis and Classification :confused: :expressionless: :blush:
+## Twitter Sentiment Analysis and Classification :confused: :expressionless: :smiley:
 <strong>Description:</strong>  Python script that demonstrates the process of collecting tweets related to COVID-19 vaccines, preprocessing the data, performing sentiment analysis, and classifying sentiments using different machine learning algorithms</br>
 <strong>Repository:</strong> https://github.com/HassenGharbii/Twitter_Covid_Data_Analysis
-### Project 2: License Plate Detection :blue_car:
+## License Plate Detection :blue_car:
 <strong>Description:</strong> Extracting informations from a car license plate with Python
 <strong>Repository:</strong>https://github.com/HassenGharbii/Extract_Data_From_Tunisian_Cars_Plates
-### Project 3: Automated Betting Data Scraper using Selenium :moneybag: :euro:
+## Automated Betting Data Scraper using Selenium :moneybag: :euro:
 <strong>Description:</strong>Scrape live betting data from the Stake website. It collects information about games, users, bet times, bet amounts, multipliers, and payouts, storing the data in a Pandas DataFrame.</br>
 <strong>Repository:</strong>https://github.com/HassenGharbii/Live_Stake_Bets_Wins_Scraper
-### Project 4:Scraping Cars.com data :red_car: :blue_car:
+## Scraping Cars.com data :red_car: :blue_car:
 Description: This project dates from 2022 and recently added to git , it Extract data cars.com with Python, Selenium ...
 <strong>Repository:https://github.com/HassenGharbii/Cars.com-Scraper/tree/master
-### Project 5: Web Scraping Facebook groupes (Images/Comments)
-Description: Extracted data Facebook Utilized Python, Selenium, and Scrapy.
+
 

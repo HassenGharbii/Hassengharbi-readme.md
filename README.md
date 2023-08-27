@@ -1,7 +1,7 @@
 #  Gharbi Hassen
 ![Uploading 272687914_10221136228452221_919772573084240204_n.jpg…]()
 
-**`Data Craftsman (Developer/Creator)`**
+**`Data Craftsman (Developer/Creator/Analyst)`**
 Hello! I'm Hassen Gharbi, a passionate Data Science Engineer with a robust background in web scraping, computer vision, data analysis, machine learning, deep learning, and natural language processing. My dedication lies in utilizing data-driven insights to solve real-world problems effectively
 
 

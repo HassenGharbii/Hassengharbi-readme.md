@@ -45,15 +45,15 @@ I am a highly skilled and versatile professional with expertise across a spectru
 Description: This project dates from 2022 and recently added to git , it Extract data cars.com with Python, Selenium ...
 <strong>Repository:https://github.com/HassenGharbii/Cars.com-Scraper/tree/master
 ## 🏄‍♂️ Education
-## ESPRIT  </br> 
+ESPRIT  </br> 
 Engineering degree, Data scienceEngineering degree, Data science  </br>
 Sep 2021 - Jul 2023
 
-## Higher Institute of Technological Studies of Nabeul
+ Higher Institute of Technological Studies of Nabeul
 master, Digital Entrepreneurship in Data Science </br>
 Sep 2019 - Jul 2021Sep 2019 - Jul 2021 </br>
 
-## Higher Institute of Technological Studies of NabeulHigher Institute of Technological Studies of Nabeul </br>
+Higher Institute of Technological Studies of NabeulHigher Institute of Technological Studies of Nabeul </br>
 Applied license, Réseaux informatiquesApplied license, Réseaux informatiques </br>
 Sep 2016 - Sep 2019
 

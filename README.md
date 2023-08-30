@@ -44,6 +44,9 @@ I am a highly skilled and versatile professional with expertise across a spectru
 ## Scraping Cars.com data :red_car: :blue_car:
 Description: This project dates from 2022 and recently added to git , it Extract data cars.com with Python, Selenium ...
 <strong>Repository:https://github.com/HassenGharbii/Cars.com-Scraper/tree/master
+## Cyclistic Bike Usage Analysis :biking_man: :chart_with_upwards_trend:
+Description: Overview of the analysis performed on Cyclistic bike usage data to answer specific marketing-related questions.
+<strong>Repository:https://github.com/HassenGharbii/cyclist-case-study-
 ## 🏄‍♂️ Education
 ESPRIT  </br> 
 Engineering degree, Data scienceEngineering degree, Data science  </br>

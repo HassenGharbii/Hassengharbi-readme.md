@@ -4,7 +4,7 @@
 Hello! I'm Hassen Gharbi, a passionate Data Science Engineer with a robust background in web scraping, computer vision, data analysis, machine learning, deep learning, and natural language processing. My dedication lies in utilizing data-driven insights to solve real-world problems effectively
 
 
-### 🧰 Languages and Tools
+### 🛠️ Languages and Tools
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />

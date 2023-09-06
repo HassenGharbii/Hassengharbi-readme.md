@@ -46,7 +46,7 @@ Description: This project dates from 2022 and recently added to git , it Extract
 ## Cyclistic Bike Usage Analysis :biking_man: :chart_with_upwards_trend:
 Description: Overview of the analysis performed on Cyclistic bike usage data to answer specific marketing-related questions.
 <strong>Repository:https://github.com/HassenGharbii/cyclist-case-study-
-## 🏄‍♂️ Education
+## 👨‍🎓 Education
 ESPRIT  </br> 
 Engineering degree, Data scienceEngineering degree, Data science  </br>
 Sep 2021 - Jul 2023

@@ -48,11 +48,11 @@ Description: Overview of the analysis performed on Cyclistic bike usage data to 
 <strong>Repository:https://github.com/HassenGharbii/cyclist-case-study-
 ## 👨‍🎓 Education
 ESPRIT  </br> 
-Engineering degree, Data scienceEngineering degree, Data science  </br>
+Engineering degree, Data science </br>
 Sep 2021 - Jul 2023
 
  Higher Institute of Technological Studies of Nabeul
-master, Digital Entrepreneurship in Data Science </br>
+Master, Digital Entrepreneurship in Data Science </br>
 Sep 2019 - Jul 2021Sep 2019 - Jul 2021 </br>
 
 Higher Institute of Technological Studies of NabeulHigher Institute of Technological Studies of Nabeul </br>

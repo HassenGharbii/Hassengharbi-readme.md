@@ -56,7 +56,7 @@ master, Digital Entrepreneurship in Data Science </br>
 Sep 2019 - Jul 2021Sep 2019 - Jul 2021 </br>
 
 Higher Institute of Technological Studies of NabeulHigher Institute of Technological Studies of Nabeul </br>
-Applied license, Réseaux informatiquesApplied license, Réseaux informatiques </br>
+Applied license, Computer networks </br>
 Sep 2016 - Sep 2019
 
 ## Contacts

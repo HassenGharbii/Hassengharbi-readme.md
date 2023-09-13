@@ -51,7 +51,7 @@ ESPRIT  </br>
 Engineering degree, Data science </br>
 Sep 2021 - Jul 2023
 
- Higher Institute of Technological Studies of Nabeul
+ Higher Institute of Technological Studies of Nabeul</br>
 Master, Digital Entrepreneurship in Data Science </br>
 Sep 2019 - Jul 2021Sep 2019 - Jul 2021 </br>
 

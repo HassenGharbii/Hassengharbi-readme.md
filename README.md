@@ -60,7 +60,7 @@ Applied license, Réseaux informatiquesApplied license, Réseaux informatiques <
 Sep 2016 - Sep 2019
 
 ## Contacts
-- LinkedIn: (https://www.linkedin.com/in/gharbi-hassene-b6a219233/)
+- LinkedIn: [@HassenGharbi](https://www.linkedin.com/in/gharbi-hassene-b6a219233/)
 - Email: hassengharb@gmail.com
 
 

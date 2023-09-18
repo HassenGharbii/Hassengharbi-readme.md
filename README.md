@@ -40,6 +40,9 @@ I am a highly skilled and versatile professional with expertise across a spectru
 ## Automated Betting Data Scraper using Selenium :moneybag: :euro:
 <strong>Description:</strong>Scrape live betting data from the Stake website. It collects information about games, users, bet times, bet amounts, multipliers, and payouts, storing the data in a Pandas DataFrame.</br>
 <strong>Repository:</strong>https://github.com/HassenGharbii/Live_Stake_Bets_Wins_Scraper
+## HR analytics Dashboard with tableau
+<strong>Description:A dashboard that provides a snapshot of key trends, insights, and actionable information derived from the data.
+<strong>Repository:</strong>https://github.com/HassenGharbii/HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshot.PNG
 ## Scraping Cars.com data :red_car: :blue_car:
 Description: This project dates from 2022 and recently added to git , it Extract data cars.com with Python, Selenium ...
 <strong>Repository:https://github.com/HassenGharbii/Cars.com-Scraper/tree/master

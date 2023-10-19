@@ -49,6 +49,10 @@ Description: This project dates from 2022 and recently added to git , it Extract
 ## Cyclistic Bike Usage Analysis :biking_man: :chart_with_upwards_trend:
 Description: Overview of the analysis performed on Cyclistic bike usage data to answer specific marketing-related questions.
 <strong>Repository:https://github.com/HassenGharbii/cyclist-case-study-
+
+## Electrocardiogram-ECG-Image-Scraper-for-Facebook-and-Reddit :clipboard:  :heart: :chart_with_upwards_trend: :chart_with_downwards_trend:
+Description: This project is a web scraper designed to extract electrocardiogram (ECG) images from Facebook groups .It utilizes Selenium and Scrapy for web scraping, and a pre-trained Keras model for ECG image classification.
+<strong>Repository:https://github.com/HassenGharbii/Electrocardiogram-ECG-Image-Scraper-for-Facebook-and-Reddit
 ## 👨‍🎓 Education
 ESPRIT  </br> 
 Engineering degree, Data science </br>

@@ -50,7 +50,7 @@ Description: This project dates from 2022 and recently added to git , it Extract
 Description: Overview of the analysis performed on Cyclistic bike usage data to answer specific marketing-related questions.
 <strong>Repository:https://github.com/HassenGharbii/cyclist-case-study-
 
-## Customer-Shopping-Trends-Data-Analysis
+## Customer-Shopping-Trends-Data-Analysis :bulb:
 Description: This project involves performing data analysis on a customer shopping trends dataset using PySpark. The dataset contains information about customers, their purchases, and reviews. The analysis aims to derive insights from the data and create visualizations to present the findings.
 <strong>Repository:https://github.com/HassenGharbii/Customer-Shopping-Trends-Data-Analysis
 
